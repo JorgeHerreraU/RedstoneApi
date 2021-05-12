@@ -11,7 +11,7 @@
     "express-session": "^1.17.1",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "pg": "^8.2.1",
     "pg-hstore": "^2.3.3",
     "sequelizer": "^1.1.4",
